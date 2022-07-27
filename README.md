@@ -2,13 +2,18 @@
 
 ## Dataset structure
 Each h5 file corresponds to one substance.
+
 h5 file contain two HDF5 datasets: ener and grid.
+
 - ener (3 float values)
+
 values:
     1.  Total HF energy
     2.  HF exchange energy
     3.  Total PBE0 energy
+
 - grid (Nx12 matrix where N is number of grid points and 12 is number of features)
+
 features:
     1. x coordinate
     2. y coordinate
