@@ -23,6 +23,10 @@ h5 file contain two HDF5 datasets: `ener` and `grid`.
     10. Alpha kinetic energy density
     11. Beta kinetic energy density
     12. Local HF exchange energy
+    
+`Reference_data.csv` - reference energies
+
+`total_dataframe_sorted_final.csv` - reactions coefficients
 
 ## Download
 OneDrive dowload link - [DOWNLOAD](https://1drv.ms/u/s!AgdbSNqMtbhRgcYREkBwLcfoyQ1CNg?e=AIU3T8)
