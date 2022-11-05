@@ -6,7 +6,7 @@ Each h5 file corresponds to one substance.
 h5 file contain two HDF5 datasets: `ener` and `grid`.
 
 - `ener` (3 float values)
-    1.  Total HF energy
+    1.  Kinetic and Potential energy
     2.  HF exchange energy
     3.  Total PBE0 energy
 
